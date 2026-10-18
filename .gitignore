@@ -1,0 +1,5 @@
+.vscode/
+DATA
+*.csv
+*cpython*
+*.ckpt
